@@ -7,4 +7,4 @@
 - [ ] Major refactor the code
 - [ ] Merge MP and SP if possible?
 - [ ] Put more engine stuff in here like hammer and gameui
-- [ ] x86_64 (and other arch's) support (requires reverse engineering the hl2_*.* executable, something valve won't give us the src for)
+- [ ] x86_64 (and other arch's) support (requires reverse engineering the hl2_\*.\* executable, something valve won't give us the src for)
